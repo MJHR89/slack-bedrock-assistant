@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-bedrock-runtime": "^3.678.0",
-    "@slack/bolt": "^4.0.0",
+    "@slack/bolt": "^4.1.1",
     "dotenv": "~16.4.5",
     "openai": "^4.63.0"
   },
