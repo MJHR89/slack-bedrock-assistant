@@ -22,7 +22,7 @@
     "url": "https://github.com/slack-samples/bolt-js-assistant-template/issues"
   },
   "dependencies": {
-    "@aws-sdk/client-bedrock-runtime": "^3.678.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.716.0",
     "@slack/bolt": "^4.0.0",
     "dotenv": "~16.4.5",
     "openai": "^4.63.0"
